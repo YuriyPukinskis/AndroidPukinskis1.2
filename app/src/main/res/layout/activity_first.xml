@@ -8,9 +8,9 @@
     tools:context=".FirstActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="111dp"
-        android:layout_marginBottom="476dp"
+        android:layout_width="119dp"
+        android:layout_height="68dp"
+        android:layout_marginBottom="644dp"
         android:text="Hello World! I moved!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
